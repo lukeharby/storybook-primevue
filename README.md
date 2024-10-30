@@ -1,4 +1,4 @@
-# vue-demo
+# Storybook with Vue3 and Primevue
 
 ## Project setup
 ```

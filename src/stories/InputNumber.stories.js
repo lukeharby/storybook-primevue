@@ -6,7 +6,6 @@ const meta = {
     tags: ['autodocs'],
     argTypes: {},
     args: {
-        label: '',
         name: '',
         inputId: ''
     }
@@ -16,7 +15,6 @@ export const Main = {};
 
 export const IntegerOnly = {
     args: {
-        label: 'Integer only',
         name: 'integer-only',
         inputId: 'integeronly'
     }

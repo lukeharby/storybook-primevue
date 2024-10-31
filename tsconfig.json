@@ -37,7 +37,8 @@
     "tests/**/*.tsx",
     "src/data/index.js",
     "src/components/index.js",
-    "src/router/index.js"
+    "src/router/index.js",
+    "src/main.js"
   ],
   "exclude": [
     "node_modules",
